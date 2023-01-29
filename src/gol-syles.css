@@ -1,0 +1,23 @@
+.heading , .startButton{
+    width: 300px;
+    background-color: #ae3111;
+    color: white;
+    border-radius: 5px;
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+}
+body{
+    padding-top: 30px;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    align-content: center;
+    background-color: rgb(37, 95, 75);
+    gap: 10px;
+}
+.grid{
+    display: flex;
+    flex-wrap: wrap;
+    width: 300px;
+    height: 300px;
+}
