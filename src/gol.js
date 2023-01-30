@@ -10,7 +10,7 @@ document.addEventListener("DOMContentLoaded", () => {
     },
   ];
   const rows = 12;
-  const columns = rows;
+  const columns = 18;
 
   let toStayAlive = [];
   let toDie = [];
