@@ -66,7 +66,7 @@ document.addEventListener("DOMContentLoaded", () => {
         }
       }
     }
-    if (surrAlive > 2) {
+    if (surrAlive === 3) {
       toRevive.push(matrix[a][b]);
     }
     
